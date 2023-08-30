@@ -1,0 +1,6 @@
+E:\LuuDuLieuSinhVien\.ahihi\week3\bai 2\bin\Debug\bai 2.exe.config
+E:\LuuDuLieuSinhVien\.ahihi\week3\bai 2\bin\Debug\bai 2.exe
+E:\LuuDuLieuSinhVien\.ahihi\week3\bai 2\bin\Debug\bai 2.pdb
+E:\LuuDuLieuSinhVien\.ahihi\week3\bai 2\obj\Debug\bai 2.csprojResolveAssemblyReference.cache
+E:\LuuDuLieuSinhVien\.ahihi\week3\bai 2\obj\Debug\bai 2.exe
+E:\LuuDuLieuSinhVien\.ahihi\week3\bai 2\obj\Debug\bai 2.pdb
