@@ -1,0 +1,6 @@
+E:\LuuDuLieuSinhVien\.ahihi\week3\week3\bin\Debug\week3.exe.config
+E:\LuuDuLieuSinhVien\.ahihi\week3\week3\bin\Debug\week3.exe
+E:\LuuDuLieuSinhVien\.ahihi\week3\week3\bin\Debug\week3.pdb
+E:\LuuDuLieuSinhVien\.ahihi\week3\week3\obj\Debug\week3.csprojResolveAssemblyReference.cache
+E:\LuuDuLieuSinhVien\.ahihi\week3\week3\obj\Debug\week3.exe
+E:\LuuDuLieuSinhVien\.ahihi\week3\week3\obj\Debug\week3.pdb
